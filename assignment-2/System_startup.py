@@ -1,3 +1,9 @@
+"""
+SYSTEM STARTUP SIMULATION (Assignment 2)
+Author : vansh
+Course : Operating Systems Lab
+File   : System_startup.py
+"""
 import multiprocessing
 import time
 import logging
@@ -40,4 +46,5 @@ if __name__ == '__main__':
         p.join()
 
     print("System Shutdown.\n")
+
     print(f"Process log created at: {log_file}")
