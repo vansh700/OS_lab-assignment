@@ -40,38 +40,3 @@ All processes executed in simulated priority order.
 
 === LAB EXECUTION COMPLETED SUCCESSFULLY ===
 
-All child processes completed.
-
-
---- Task 2: Command Execution ---
-
-Executing: ls
-
-Executing: date
-
-Executing: whoami
-
-All commands executed.
-
-
---- Task 3: Simulated Zombie & Orphan Processes ---
-[Parent] PID=3435 (child PID=3447) sleeping...
-[Parent] Collected child process, zombie cleared.
-
---- Task 4: Process Information ---
-Current PID : 3435
-Parent PID  : 377
-Platform    : Linux
-Executable  : process.py
-Memory Usage: 13.50 MB
-CPU Times   : pcputimes(user=0.05, system=0.03, children_user=0.03, children_system=0.01, iowait=0.0)
-
-
---- Task 5: Simulated Process Prioritization ---
-Running process with High Priority...
-Running process with Normal Priority...
-Running process with Low Priority...
-All processes executed in simulated priority order.
-
-=== LAB EXECUTION COMPLETED SUCCESSFULLY ===
-
