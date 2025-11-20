@@ -1,0 +1,24 @@
+
+--- FIRST FIT ---
+Enter partition sizes: 100 500 200 300 600
+Enter process sizes: 212 417 112 426
+Process 1 allocated in Partition 2
+Process 2 allocated in Partition 5
+Process 3 allocated in Partition 2
+Process 4 cannot be allocated
+
+--- BEST FIT ---
+Enter partition sizes: 100 500 200 300 600
+Enter process sizes: 212 417 112 426
+Process 1 allocated in Partition 4
+Process 2 allocated in Partition 2
+Process 3 allocated in Partition 3
+Process 4 allocated in Partition 5
+
+--- WORST FIT ---
+Enter partition sizes: 100 500 200 300 600
+Enter process sizes: 212 417 112 426
+Process 1 allocated in Partition 5
+Process 2 allocated in Partition 2
+Process 3 allocated in Partition 5
+Process 4 cannot be allocated

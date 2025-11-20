@@ -1,0 +1,8 @@
+Enter total number of blocks: 10
+Enter number of files: 2
+Enter starting block for file 1: 2
+Enter length of file 1: 4
+File 1 allocated from block 2 to 5
+Enter starting block for file 2: 5
+Enter length of file 2: 4
+File 2 cannot be allocated.

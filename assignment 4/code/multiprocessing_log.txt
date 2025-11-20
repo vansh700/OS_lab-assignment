@@ -1,0 +1,7 @@
+2025-01-12 10:20:01,123 - Process-1 - Process-1 started
+2025-01-12 10:20:01,124 - Process-2 - Process-2 started
+2025-01-12 10:20:03,128 - Process-1 - Process-1 terminated
+2025-01-12 10:20:03,129 - Process-2 - Process-2 terminated
+
+System Booting...
+System Shutdown.
